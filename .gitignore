@@ -1,0 +1,8 @@
+# Exclude large executables
+*.exe
+
+# Exclude specific node_modules folders containing large native addon files
+node_modules/@next/swc-win32-x64-msvc/
+node_modules/react-email/node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node
+# Alternative (exclude entire node_modules if not strictly necessary)
+# node_modules/

@@ -1,0 +1,100 @@
+{
+  "pages": {
+    "/(front-end)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(front-end)/page.css",
+      "static/chunks/app/(front-end)/page.js"
+    ],
+    "/(front-end)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(front-end)/layout.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/(front-end)/products/[slug]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(front-end)/products/[slug]/page.css",
+      "static/chunks/app/(front-end)/products/[slug]/page.js"
+    ],
+    "/(front-end)/search/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(front-end)/search/page.js"
+    ],
+    "/(front-end)/cart/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(front-end)/cart/page.js"
+    ],
+    "/(front-end)/category/[slug]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(front-end)/category/[slug]/page.js"
+    ],
+    "/(front-end)/market/[slug]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(front-end)/market/[slug]/page.css",
+      "static/chunks/app/(front-end)/market/[slug]/page.js"
+    ],
+    "/(front-end)/blogs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(front-end)/blogs/page.css",
+      "static/chunks/app/(front-end)/blogs/page.js"
+    ],
+    "/(back-office)/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/page.js"
+    ],
+    "/(back-office)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/layout.js"
+    ],
+    "/(back-office)/dashboard/(catalogue)/products/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/(catalogue)/products/page.js"
+    ],
+    "/(back-office)/dashboard/community/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/community/page.js"
+    ],
+    "/(back-office)/dashboard/community/new/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(back-office)/dashboard/community/new/page.css",
+      "static/chunks/app/(back-office)/dashboard/community/new/page.js"
+    ],
+    "/(back-office)/dashboard/staff/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/staff/page.js"
+    ],
+    "/(back-office)/dashboard/markets/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/markets/page.js"
+    ],
+    "/(back-office)/dashboard/markets/update/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/markets/update/[id]/page.js"
+    ],
+    "/(back-office)/dashboard/(catalogue)/categories/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(back-office)/dashboard/(catalogue)/categories/page.js"
+    ]
+  }
+}

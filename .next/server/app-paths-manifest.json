@@ -1,0 +1,14 @@
+{
+  "/api/products/product/[slug]/route": "app/api/products/product/[slug]/route.js",
+  "/api/categories/[id]/route": "app/api/categories/[id]/route.js",
+  "/api/categories/route": "app/api/categories/route.js",
+  "/api/trainings/route": "app/api/trainings/route.js",
+  "/api/banners/route": "app/api/banners/route.js",
+  "/api/markets/route": "app/api/markets/route.js",
+  "/(front-end)/blogs/page": "app/(front-end)/blogs/page.js",
+  "/(front-end)/page": "app/(front-end)/page.js",
+  "/(back-office)/dashboard/markets/page": "app/(back-office)/dashboard/markets/page.js",
+  "/(back-office)/dashboard/markets/update/[id]/page": "app/(back-office)/dashboard/markets/update/[id]/page.js",
+  "/(back-office)/dashboard/(catalogue)/categories/page": "app/(back-office)/dashboard/(catalogue)/categories/page.js",
+  "/(front-end)/products/[slug]/page": "app/(front-end)/products/[slug]/page.js"
+}
